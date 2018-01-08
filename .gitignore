@@ -1,0 +1,14 @@
+# Data files
+*.gz
+*.pkl
+*.pdf
+
+# OS specific
+.DS_Store
+
+# Python stuff
+.ipynb_checkpoints
+__pycache__
+
+# Personal experiments
+experiments
